@@ -1,0 +1,271 @@
+review_id,order_id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
+review_000001,order_000001,4,Good,Product was good,2017-08-12 07:00:00,2017-08-20 07:00:00
+review_000002,order_000002,5,Average,Product was good,2018-03-23 16:00:00,2018-03-11 16:00:00
+review_000003,order_000003,4,Excellent,,2018-06-01 12:00:00,2018-05-15 12:00:00
+review_000004,order_000004,3,Good,Delivery was delayed,2018-07-22 23:00:00,2018-07-26 23:00:00
+review_000006,order_000006,5,Late delivery,,2018-04-04 23:00:00,2018-03-29 23:00:00
+review_000007,order_000007,4,,Delivered as expected,2017-09-17 13:00:00,2017-08-31 13:00:00
+review_000008,order_000008,5,Average,Everything okay,2018-02-18 02:00:00,2018-02-20 02:00:00
+review_000009,order_000009,4,Late delivery,Everything okay,2017-06-27 19:00:00,2017-07-16 19:00:00
+review_000010,order_000010,4,Good,Delivery was delayed,2017-11-30 01:00:00,2017-11-28 01:00:00
+review_000011,order_000011,4,,Delivery was delayed,2018-07-28 21:00:00,2018-08-18 21:00:00
+review_000012,order_000012,2,Average,Delivered as expected,2018-10-24 14:00:00,2018-10-19 14:00:00
+review_000013,order_000013,5,Average,Delivery was delayed,2017-06-23 07:00:00,2017-06-23 07:00:00
+review_000014,order_000014,4,Late delivery,,2017-12-11 04:00:00,2017-11-27 04:00:00
+review_000017,order_000017,4,Good,Delivered as expected,2017-06-14 10:00:00,2017-07-06 10:00:00
+review_000018,order_000018,2,Good,Everything okay,2017-09-15 04:00:00,2017-09-01 04:00:00
+review_000019,order_000019,5,Good,Product was good,2018-04-16 01:00:00,2018-04-24 01:00:00
+review_000020,order_000020,5,,Product was good,2017-10-19 12:00:00,2017-10-28 12:00:00
+review_000021,order_000021,5,Late delivery,Delivered as expected,2018-04-07 16:00:00,2018-04-28 16:00:00
+review_000022,order_000022,2,Good,Delivery was delayed,2017-12-31 04:00:00,2018-01-10 04:00:00
+review_000023,order_000023,2,Late delivery,,2017-05-11 15:00:00,2017-05-28 15:00:00
+review_000024,order_000024,5,Late delivery,Delivered as expected,2018-06-06 17:00:00,2018-06-28 17:00:00
+review_000025,order_000025,5,Late delivery,Product was good,2017-12-30 20:00:00,2018-01-09 20:00:00
+review_000026,order_000026,4,Average,Product was good,2018-08-06 15:00:00,2018-07-18 15:00:00
+review_000027,order_000027,4,Excellent,,2018-04-04 02:00:00,2018-04-04 02:00:00
+review_000028,order_000028,1,,Delivered as expected,2018-04-16 08:00:00,2018-04-16 08:00:00
+review_000029,order_000029,5,,Delivered as expected,2018-02-13 18:00:00,2018-03-04 18:00:00
+review_000030,order_000030,5,,Product was good,2018-08-21 03:00:00,2018-08-23 03:00:00
+review_000031,order_000031,4,Average,Product was good,2017-03-23 17:00:00,2017-03-18 17:00:00
+review_000032,order_000032,5,Good,Delivered as expected,2017-04-13 02:00:00,2017-05-03 02:00:00
+review_000033,order_000033,2,Late delivery,Everything okay,2017-05-26 16:00:00,2017-05-15 16:00:00
+review_000034,order_000034,4,Average,Product was good,2017-07-13 18:00:00,2017-07-13 18:00:00
+review_000036,order_000036,5,Average,Delivery was delayed,2017-12-28 12:00:00,2018-01-01 12:00:00
+review_000037,order_000037,3,Average,Product was good,2017-12-04 18:00:00,2017-12-07 18:00:00
+review_000038,order_000038,4,Excellent,,2018-06-10 19:00:00,2018-06-05 19:00:00
+review_000039,order_000039,4,,,2018-07-26 09:00:00,2018-08-13 09:00:00
+review_000040,order_000040,5,Average,Product was good,2018-05-27 16:00:00,2018-05-04 16:00:00
+review_000041,order_000041,1,Late delivery,Delivery was delayed,2018-05-06 08:00:00,2018-05-29 08:00:00
+review_000042,order_000042,5,Excellent,Everything okay,2017-08-08 13:00:00,2017-08-21 13:00:00
+review_000043,order_000043,5,Late delivery,Product was good,2017-10-02 19:00:00,2017-10-24 19:00:00
+review_000044,order_000044,1,Average,Delivered as expected,2018-01-10 04:00:00,2018-01-05 04:00:00
+review_000045,order_000045,5,Excellent,Delivered as expected,2017-05-13 13:00:00,2017-04-17 13:00:00
+review_000046,order_000046,4,Good,Everything okay,2018-02-26 15:00:00,2018-03-02 15:00:00
+review_000047,order_000047,5,Excellent,Product was good,2017-05-26 10:00:00,2017-05-13 10:00:00
+review_000049,order_000049,5,,,2017-12-12 22:00:00,2017-12-19 22:00:00
+review_000050,order_000050,4,Late delivery,,2018-08-23 17:00:00,2018-08-28 17:00:00
+review_000052,order_000052,4,Average,Delivered as expected,2018-03-31 11:00:00,2018-03-23 11:00:00
+review_000055,order_000055,3,Good,Everything okay,2017-02-23 12:00:00,2017-03-15 12:00:00
+review_000056,order_000056,4,Average,Delivery was delayed,2017-10-17 01:00:00,2017-10-25 01:00:00
+review_000057,order_000057,4,Late delivery,,2017-06-15 14:00:00,2017-06-11 14:00:00
+review_000058,order_000058,5,Excellent,Delivered as expected,2017-10-25 12:00:00,2017-10-17 12:00:00
+review_000059,order_000059,5,Good,Delivered as expected,2017-09-04 17:00:00,2017-09-21 17:00:00
+review_000060,order_000060,5,Excellent,Delivery was delayed,2018-09-06 18:00:00,2018-09-03 18:00:00
+review_000061,order_000061,5,Average,Delivery was delayed,2018-01-18 05:00:00,2018-01-29 05:00:00
+review_000062,order_000062,5,,,2017-01-24 17:00:00,2017-01-18 17:00:00
+review_000063,order_000063,5,,,2017-07-29 19:00:00,2017-08-11 19:00:00
+review_000064,order_000064,3,Average,Everything okay,2018-08-11 15:00:00,2018-07-24 15:00:00
+review_000065,order_000065,3,,Product was good,2017-12-09 00:00:00,2017-12-16 00:00:00
+review_000066,order_000066,5,Good,,2017-12-04 00:00:00,2017-12-20 00:00:00
+review_000067,order_000067,2,Excellent,Delivery was delayed,2018-02-12 22:00:00,2018-02-28 22:00:00
+review_000068,order_000068,5,Good,Everything okay,2017-05-03 00:00:00,2017-04-28 00:00:00
+review_000069,order_000069,5,Excellent,Everything okay,2018-02-14 05:00:00,2018-02-08 05:00:00
+review_000070,order_000070,4,Excellent,Product was good,2017-04-30 04:00:00,2017-05-23 04:00:00
+review_000072,order_000072,1,Average,Delivery was delayed,2018-04-13 09:00:00,2018-04-21 09:00:00
+review_000073,order_000073,2,,Product was good,2018-06-11 22:00:00,2018-07-07 22:00:00
+review_000074,order_000074,4,,,2018-07-13 17:00:00,2018-06-27 17:00:00
+review_000075,order_000075,1,Late delivery,,2017-12-08 10:00:00,2017-11-28 10:00:00
+review_000076,order_000076,5,Average,Delivered as expected,2017-09-19 16:00:00,2017-09-29 16:00:00
+review_000077,order_000077,5,Late delivery,Everything okay,2018-05-03 03:00:00,2018-04-21 03:00:00
+review_000078,order_000078,5,Average,Delivered as expected,2017-06-03 10:00:00,2017-06-07 10:00:00
+review_000079,order_000079,3,Late delivery,Delivered as expected,2017-07-29 10:00:00,2017-07-31 10:00:00
+review_000080,order_000080,4,Good,Delivery was delayed,2018-04-18 18:00:00,2018-05-01 18:00:00
+review_000081,order_000081,3,Late delivery,Product was good,2017-02-22 14:00:00,2017-02-22 14:00:00
+review_000084,order_000084,4,,,2018-07-06 12:00:00,2018-08-02 12:00:00
+review_000085,order_000085,3,,,2017-05-09 05:00:00,2017-05-23 05:00:00
+review_000086,order_000086,5,Good,Delivered as expected,2017-03-24 04:00:00,2017-04-25 04:00:00
+review_000087,order_000087,3,,Delivered as expected,2017-01-27 19:00:00,2017-01-29 19:00:00
+review_000088,order_000088,4,Good,Delivery was delayed,2017-02-18 21:00:00,2017-02-03 21:00:00
+review_000089,order_000089,1,Late delivery,Delivered as expected,2017-01-15 11:00:00,2017-01-18 11:00:00
+review_000090,order_000090,4,Average,,2018-02-22 16:00:00,2018-03-13 16:00:00
+review_000091,order_000091,4,Late delivery,Everything okay,2017-09-19 01:00:00,2017-09-20 01:00:00
+review_000092,order_000092,5,Late delivery,Delivered as expected,2018-01-25 04:00:00,2018-01-24 04:00:00
+review_000093,order_000093,5,Excellent,Delivered as expected,2017-05-10 07:00:00,2017-05-16 07:00:00
+review_000095,order_000095,4,Average,Delivery was delayed,2018-05-17 09:00:00,2018-05-06 09:00:00
+review_000097,order_000097,5,Excellent,Delivered as expected,2017-11-19 03:00:00,2017-12-01 03:00:00
+review_000098,order_000098,3,Excellent,Product was good,2017-12-03 12:00:00,2017-11-28 12:00:00
+review_000099,order_000099,5,Late delivery,Delivery was delayed,2018-01-19 06:00:00,2018-01-07 06:00:00
+review_000100,order_000100,3,Excellent,Product was good,2017-11-25 08:00:00,2017-11-10 08:00:00
+review_000101,order_000101,2,Excellent,,2018-08-30 08:00:00,2018-09-22 08:00:00
+review_000102,order_000102,5,Late delivery,Delivery was delayed,2018-02-23 15:00:00,2018-03-13 15:00:00
+review_000103,order_000103,3,Late delivery,Everything okay,2017-04-08 08:00:00,2017-04-03 08:00:00
+review_000104,order_000104,5,Good,Delivered as expected,2017-10-23 01:00:00,2017-11-06 01:00:00
+review_000105,order_000105,5,,,2018-01-08 18:00:00,2018-01-14 18:00:00
+review_000107,order_000107,3,Late delivery,Everything okay,2018-05-22 20:00:00,2018-05-22 20:00:00
+review_000108,order_000108,4,Excellent,Delivered as expected,2017-06-23 10:00:00,2017-06-22 10:00:00
+review_000109,order_000109,3,Excellent,Delivered as expected,2018-02-16 11:00:00,2018-01-29 11:00:00
+review_000110,order_000110,5,Good,,2017-04-18 10:00:00,2017-04-08 10:00:00
+review_000111,order_000111,2,Excellent,Delivery was delayed,2017-04-16 09:00:00,2017-04-18 09:00:00
+review_000112,order_000112,5,,,2018-08-03 12:00:00,2018-08-05 12:00:00
+review_000114,order_000114,3,,,2017-09-12 15:00:00,2017-09-26 15:00:00
+review_000116,order_000116,5,Excellent,,2017-05-02 18:00:00,2017-05-12 18:00:00
+review_000117,order_000117,5,Late delivery,Delivery was delayed,2017-09-21 01:00:00,2017-09-08 01:00:00
+review_000118,order_000118,5,,Delivered as expected,2018-03-31 06:00:00,2018-04-29 06:00:00
+review_000121,order_000121,3,Excellent,Product was good,2017-02-01 15:00:00,2017-02-14 15:00:00
+review_000122,order_000122,5,Late delivery,Delivered as expected,2018-10-06 12:00:00,2018-11-05 12:00:00
+review_000123,order_000123,5,Excellent,Product was good,2017-09-21 01:00:00,2017-09-25 01:00:00
+review_000124,order_000124,3,Good,Product was good,2017-07-08 21:00:00,2017-07-17 21:00:00
+review_000126,order_000126,5,Good,Delivery was delayed,2017-08-20 10:00:00,2017-08-01 10:00:00
+review_000127,order_000127,4,,,2018-10-13 13:00:00,2018-10-09 13:00:00
+review_000128,order_000128,4,Good,Product was good,2018-01-17 09:00:00,2018-01-21 09:00:00
+review_000129,order_000129,5,,Delivery was delayed,2017-08-10 05:00:00,2017-07-30 05:00:00
+review_000130,order_000130,5,Average,Product was good,2018-07-22 19:00:00,2018-07-12 19:00:00
+review_000131,order_000131,4,Good,,2017-05-06 16:00:00,2017-05-21 16:00:00
+review_000132,order_000132,5,Good,Delivery was delayed,2018-05-18 10:00:00,2018-05-26 10:00:00
+review_000133,order_000133,4,Average,Product was good,2017-03-22 03:00:00,2017-02-28 03:00:00
+review_000134,order_000134,5,Good,,2017-12-31 05:00:00,2018-01-18 05:00:00
+review_000135,order_000135,1,Late delivery,Product was good,2018-08-07 21:00:00,2018-09-10 21:00:00
+review_000137,order_000137,1,Excellent,Everything okay,2017-01-27 20:00:00,2017-01-19 20:00:00
+review_000139,order_000139,4,Late delivery,Everything okay,2017-11-25 16:00:00,2017-12-03 16:00:00
+review_000140,order_000140,5,Good,Product was good,2017-04-23 01:00:00,2017-05-17 01:00:00
+review_000141,order_000141,4,Excellent,Delivery was delayed,2018-10-31 21:00:00,2018-10-28 21:00:00
+review_000142,order_000142,5,Average,Delivered as expected,2018-02-19 10:00:00,2018-02-27 10:00:00
+review_000143,order_000143,5,Excellent,Everything okay,2017-11-04 21:00:00,2017-11-23 21:00:00
+review_000144,order_000144,5,Good,Everything okay,2017-01-16 16:00:00,2017-02-07 16:00:00
+review_000146,order_000146,3,Excellent,Delivered as expected,2018-08-11 01:00:00,2018-07-26 01:00:00
+review_000148,order_000148,4,,Product was good,2017-06-15 10:00:00,2017-06-22 10:00:00
+review_000150,order_000150,5,Average,Everything okay,2018-01-20 16:00:00,2018-01-25 16:00:00
+review_000151,order_000151,4,,,2018-10-09 06:00:00,2018-10-20 06:00:00
+review_000152,order_000152,5,Average,,2017-10-10 17:00:00,2017-09-19 17:00:00
+review_000153,order_000153,4,Good,Delivery was delayed,2017-04-11 11:00:00,2017-04-05 11:00:00
+review_000155,order_000155,1,Average,Delivery was delayed,2017-08-26 13:00:00,2017-08-11 13:00:00
+review_000156,order_000156,4,Late delivery,Everything okay,2017-04-01 08:00:00,2017-03-31 08:00:00
+review_000157,order_000157,4,Excellent,Delivery was delayed,2018-09-06 04:00:00,2018-09-15 04:00:00
+review_000158,order_000158,1,,Everything okay,2017-11-30 15:00:00,2017-11-12 15:00:00
+review_000159,order_000159,5,Late delivery,Delivered as expected,2018-09-03 18:00:00,2018-09-22 18:00:00
+review_000161,order_000161,4,,,2018-06-01 11:00:00,2018-06-02 11:00:00
+review_000162,order_000162,3,Good,Everything okay,2018-07-01 20:00:00,2018-07-12 20:00:00
+review_000163,order_000163,5,Excellent,Product was good,2018-01-13 15:00:00,2017-12-29 15:00:00
+review_000164,order_000164,1,Late delivery,Delivered as expected,2018-05-23 15:00:00,2018-06-02 15:00:00
+review_000165,order_000165,5,Good,Everything okay,2018-08-23 20:00:00,2018-09-04 20:00:00
+review_000166,order_000166,4,Good,Everything okay,2017-06-25 23:00:00,2017-07-04 23:00:00
+review_000167,order_000167,4,Late delivery,,2018-10-15 19:00:00,2018-10-27 19:00:00
+review_000168,order_000168,4,Late delivery,Delivered as expected,2017-08-24 15:00:00,2017-08-25 15:00:00
+review_000169,order_000169,5,Excellent,Delivered as expected,2018-07-04 03:00:00,2018-07-22 03:00:00
+review_000170,order_000170,5,,Delivered as expected,2018-01-28 17:00:00,2018-01-17 17:00:00
+review_000171,order_000171,5,Late delivery,Everything okay,2017-04-06 04:00:00,2017-04-17 04:00:00
+review_000172,order_000172,4,,Delivered as expected,2018-05-25 14:00:00,2018-06-10 14:00:00
+review_000174,order_000174,5,Average,Product was good,2018-01-20 08:00:00,2018-01-09 08:00:00
+review_000175,order_000175,5,Good,Product was good,2018-04-13 12:00:00,2018-04-23 12:00:00
+review_000176,order_000176,5,Late delivery,Delivered as expected,2018-07-27 00:00:00,2018-07-17 00:00:00
+review_000177,order_000177,4,Average,Product was good,2017-08-09 07:00:00,2017-08-12 07:00:00
+review_000179,order_000179,5,Good,Everything okay,2017-07-07 14:00:00,2017-07-15 14:00:00
+review_000180,order_000180,5,Good,,2018-05-22 19:00:00,2018-05-17 19:00:00
+review_000181,order_000181,3,Good,Product was good,2017-09-15 17:00:00,2017-09-07 17:00:00
+review_000182,order_000182,5,Late delivery,Product was good,2017-12-20 08:00:00,2018-01-12 08:00:00
+review_000183,order_000183,3,Late delivery,Product was good,2018-04-26 02:00:00,2018-04-22 02:00:00
+review_000184,order_000184,5,,,2018-02-18 08:00:00,2018-02-20 08:00:00
+review_000186,order_000186,4,Good,Product was good,2018-04-25 17:00:00,2018-04-26 17:00:00
+review_000187,order_000187,3,Average,Delivery was delayed,2017-06-02 11:00:00,2017-06-06 11:00:00
+review_000188,order_000188,5,Average,Delivery was delayed,2018-02-13 12:00:00,2018-03-09 12:00:00
+review_000189,order_000189,4,Late delivery,Delivery was delayed,2017-12-07 00:00:00,2017-12-26 00:00:00
+review_000190,order_000190,5,,Delivered as expected,2017-02-15 10:00:00,2017-03-04 10:00:00
+review_000193,order_000193,5,Good,Delivery was delayed,2018-05-10 22:00:00,2018-05-24 22:00:00
+review_000194,order_000194,5,Average,Product was good,2018-01-02 14:00:00,2018-01-22 14:00:00
+review_000195,order_000195,4,,Everything okay,2018-10-03 17:00:00,2018-10-02 17:00:00
+review_000196,order_000196,2,,Delivered as expected,2018-06-25 21:00:00,2018-07-24 21:00:00
+review_000197,order_000197,5,Late delivery,Everything okay,2017-05-06 01:00:00,2017-05-10 01:00:00
+review_000198,order_000198,5,Good,Everything okay,2018-02-06 22:00:00,2018-02-10 22:00:00
+review_000199,order_000199,5,Late delivery,Product was good,2017-05-07 20:00:00,2017-05-11 20:00:00
+review_000201,order_000201,3,Average,Everything okay,2017-02-23 09:00:00,2017-02-16 09:00:00
+review_000202,order_000202,1,Late delivery,Delivery was delayed,2017-02-14 14:00:00,2017-03-13 14:00:00
+review_000203,order_000203,5,Late delivery,Everything okay,2018-09-06 03:00:00,2018-08-30 03:00:00
+review_000204,order_000204,1,Excellent,Product was good,2017-02-24 21:00:00,2017-03-20 21:00:00
+review_000205,order_000205,1,Excellent,Product was good,2018-04-12 22:00:00,2018-03-28 22:00:00
+review_000206,order_000206,4,,,2018-03-24 13:00:00,2018-03-05 13:00:00
+review_000207,order_000207,5,Good,,2018-10-11 04:00:00,2018-11-02 04:00:00
+review_000209,order_000209,4,Excellent,Everything okay,2017-05-21 00:00:00,2017-04-24 00:00:00
+review_000210,order_000210,5,Late delivery,Delivery was delayed,2017-10-10 16:00:00,2017-09-14 16:00:00
+review_000212,order_000212,3,Good,,2017-12-29 14:00:00,2017-12-26 14:00:00
+review_000213,order_000213,5,Good,Everything okay,2018-03-06 09:00:00,2018-03-14 09:00:00
+review_000214,order_000214,3,,Delivery was delayed,2017-02-21 11:00:00,2017-01-29 11:00:00
+review_000215,order_000215,4,Excellent,Delivery was delayed,2018-03-26 07:00:00,2018-03-03 07:00:00
+review_000216,order_000216,5,Excellent,Delivered as expected,2018-06-30 17:00:00,2018-07-06 17:00:00
+review_000218,order_000218,4,Good,Delivery was delayed,2017-04-21 08:00:00,2017-04-29 08:00:00
+review_000219,order_000219,5,,Delivered as expected,2017-07-01 10:00:00,2017-06-26 10:00:00
+review_000220,order_000220,5,Good,,2017-09-23 00:00:00,2017-09-28 00:00:00
+review_000222,order_000222,5,,Everything okay,2017-04-04 13:00:00,2017-04-15 13:00:00
+review_000223,order_000223,5,Good,,2018-05-15 23:00:00,2018-05-14 23:00:00
+review_000224,order_000224,5,Late delivery,Product was good,2018-10-20 03:00:00,2018-10-25 03:00:00
+review_000225,order_000225,4,Excellent,Everything okay,2017-02-05 03:00:00,2017-01-30 03:00:00
+review_000229,order_000229,5,Late delivery,,2017-12-21 04:00:00,2017-12-23 04:00:00
+review_000230,order_000230,3,Late delivery,Everything okay,2017-08-11 10:00:00,2017-08-15 10:00:00
+review_000231,order_000231,5,Average,Delivery was delayed,2017-12-05 19:00:00,2017-12-09 19:00:00
+review_000232,order_000232,4,Good,Delivered as expected,2018-01-04 06:00:00,2017-12-25 06:00:00
+review_000233,order_000233,5,Average,Everything okay,2018-02-11 05:00:00,2018-03-12 05:00:00
+review_000234,order_000234,5,Average,Delivery was delayed,2018-03-18 22:00:00,2018-03-21 22:00:00
+review_000235,order_000235,4,Average,,2018-01-08 17:00:00,2018-01-12 17:00:00
+review_000236,order_000236,5,,Everything okay,2018-05-23 20:00:00,2018-06-25 20:00:00
+review_000237,order_000237,4,Late delivery,Delivery was delayed,2017-05-24 09:00:00,2017-06-06 09:00:00
+review_000238,order_000238,1,,Delivered as expected,2018-08-06 06:00:00,2018-08-15 06:00:00
+review_000239,order_000239,4,Good,Everything okay,2018-04-02 04:00:00,2018-04-21 04:00:00
+review_000241,order_000241,4,,Delivery was delayed,2017-10-29 14:00:00,2017-11-17 14:00:00
+review_000242,order_000242,1,Late delivery,Everything okay,2018-08-12 23:00:00,2018-08-31 23:00:00
+review_000243,order_000243,5,Late delivery,Delivered as expected,2017-04-04 04:00:00,2017-04-12 04:00:00
+review_000244,order_000244,5,Good,Everything okay,2017-07-29 16:00:00,2017-07-29 16:00:00
+review_000245,order_000245,4,Excellent,,2017-10-08 03:00:00,2017-10-28 03:00:00
+review_000246,order_000246,5,Excellent,Delivered as expected,2017-12-14 16:00:00,2017-12-04 16:00:00
+review_000247,order_000247,5,,Everything okay,2018-01-03 21:00:00,2017-12-27 21:00:00
+review_000248,order_000248,5,Excellent,Product was good,2017-05-30 22:00:00,2017-06-03 22:00:00
+review_000250,order_000250,5,,,2018-10-09 12:00:00,2018-10-13 12:00:00
+review_000251,order_000251,4,Average,Everything okay,2017-07-05 22:00:00,2017-06-29 22:00:00
+review_000252,order_000252,5,,Product was good,2017-11-23 12:00:00,2017-11-14 12:00:00
+review_000253,order_000253,2,Average,Delivery was delayed,2018-04-16 23:00:00,2018-04-05 23:00:00
+review_000254,order_000254,5,,,2018-08-21 07:00:00,2018-09-19 07:00:00
+review_000255,order_000255,5,Late delivery,,2018-09-27 07:00:00,2018-10-12 07:00:00
+review_000256,order_000256,5,Excellent,Delivered as expected,2018-03-09 05:00:00,2018-03-13 05:00:00
+review_000257,order_000257,2,Average,,2017-10-25 16:00:00,2017-10-30 16:00:00
+review_000258,order_000258,5,Late delivery,Delivered as expected,2018-07-21 16:00:00,2018-07-25 16:00:00
+review_000259,order_000259,5,Late delivery,Delivery was delayed,2018-10-01 14:00:00,2018-10-16 14:00:00
+review_000260,order_000260,5,Late delivery,Delivered as expected,2017-05-04 10:00:00,2017-05-03 10:00:00
+review_000261,order_000261,5,Good,Everything okay,2018-08-24 01:00:00,2018-08-22 01:00:00
+review_000262,order_000262,5,Good,Everything okay,2018-03-27 16:00:00,2018-02-28 16:00:00
+review_000263,order_000263,1,Excellent,Delivered as expected,2017-02-20 01:00:00,2017-03-11 01:00:00
+review_000264,order_000264,3,Late delivery,Delivery was delayed,2017-09-25 20:00:00,2017-09-04 20:00:00
+review_000266,order_000266,1,Good,Delivered as expected,2017-03-09 16:00:00,2017-03-15 16:00:00
+review_000267,order_000267,4,Average,,2017-05-13 20:00:00,2017-05-17 20:00:00
+review_000268,order_000268,5,Average,,2018-10-08 11:00:00,2018-10-26 11:00:00
+review_000269,order_000269,5,Late delivery,Delivery was delayed,2018-07-28 04:00:00,2018-08-13 04:00:00
+review_000270,order_000270,3,Average,Product was good,2018-07-22 14:00:00,2018-07-29 14:00:00
+review_000273,order_000273,3,Late delivery,,2017-06-11 18:00:00,2017-06-05 18:00:00
+review_000274,order_000274,4,,Product was good,2017-08-01 18:00:00,2017-07-30 18:00:00
+review_000275,order_000275,4,Excellent,Product was good,2018-03-20 11:00:00,2018-04-12 11:00:00
+review_000276,order_000276,2,Excellent,Product was good,2018-03-15 04:00:00,2018-03-14 04:00:00
+review_000277,order_000277,4,Excellent,Delivered as expected,2018-04-20 22:00:00,2018-04-21 22:00:00
+review_000279,order_000279,1,Late delivery,Delivery was delayed,2018-01-27 18:00:00,2018-01-30 18:00:00
+review_000280,order_000280,5,Good,,2017-10-29 09:00:00,2017-11-28 09:00:00
+review_000281,order_000281,5,Excellent,Delivery was delayed,2018-02-16 15:00:00,2018-01-23 15:00:00
+review_000282,order_000282,2,Good,Delivered as expected,2017-06-07 00:00:00,2017-05-31 00:00:00
+review_000283,order_000283,5,Excellent,,2017-06-08 06:00:00,2017-05-27 06:00:00
+review_000284,order_000284,1,Good,Delivered as expected,2017-03-19 09:00:00,2017-03-21 09:00:00
+review_000285,order_000285,5,Late delivery,,2018-07-20 00:00:00,2018-07-14 00:00:00
+review_000286,order_000286,5,Excellent,Delivered as expected,2017-06-07 15:00:00,2017-06-17 15:00:00
+review_000287,order_000287,2,Excellent,Delivery was delayed,2018-04-07 06:00:00,2018-03-23 06:00:00
+review_000289,order_000289,5,Good,Delivery was delayed,2018-06-28 08:00:00,2018-06-30 08:00:00
+review_000290,order_000290,4,,,2017-11-21 19:00:00,2017-11-16 19:00:00
+review_000291,order_000291,4,,Everything okay,2018-04-28 10:00:00,2018-05-09 10:00:00
+review_000292,order_000292,4,Late delivery,Product was good,2018-07-24 21:00:00,2018-07-25 21:00:00
+review_000293,order_000293,4,,,2017-03-16 04:00:00,2017-03-09 04:00:00
+review_000294,order_000294,5,,Delivered as expected,2017-12-23 05:00:00,2018-01-14 05:00:00
+review_000295,order_000295,5,Average,Product was good,2017-12-23 05:00:00,2017-12-20 05:00:00
+review_000297,order_000297,2,Late delivery,Delivery was delayed,2018-06-27 05:00:00,2018-07-05 05:00:00
+review_000298,order_000298,5,Late delivery,Delivery was delayed,2017-03-23 20:00:00,2017-04-05 20:00:00
+review_000299,order_000299,5,Excellent,Product was good,2017-03-01 06:00:00,2017-02-14 06:00:00
+review_000300,order_000300,5,Good,Delivery was delayed,2017-05-31 07:00:00,2017-06-04 07:00:00
+review_000301,order_000301,5,Good,Product was good,2017-07-15 06:00:00,2017-07-24 06:00:00
+review_000304,order_000304,5,Excellent,Delivered as expected,2018-02-28 10:00:00,2018-03-26 10:00:00
+review_000305,order_000305,5,Late delivery,Delivered as expected,2018-10-28 09:00:00,2018-10-28 09:00:00
+review_000306,order_000306,2,Late delivery,Delivered as expected,2017-11-04 06:00:00,2017-10-25 06:00:00
+review_000307,order_000307,4,Excellent,Delivered as expected,2018-06-24 13:00:00,2018-07-13 13:00:00
+review_000308,order_000308,5,Late delivery,,2017-09-03 19:00:00,2017-09-04 19:00:00
+review_000309,order_000309,5,,Everything okay,2017-12-13 07:00:00,2017-12-25 07:00:00
+review_000311,order_000311,1,Good,,2017-10-23 23:00:00,2017-10-28 23:00:00
+review_000312,order_000312,2,Late delivery,,2018-05-04 08:00:00,2018-05-17 08:00:00
+review_000313,order_000313,4,,,2017-07-07 23:00:00,2017-07-24 23:00:00
+review_000314,order_000314,5,,Delivery was delayed,2018-10-15 08:00:00,2018-10-19 08:00:00
+review_000315,order_000315,5,Average,Delivered as expected,2018-02-25 02:00:00,2018-02-21 02:00:00
+review_000316,order_000316,4,,Everything okay,2018-01-23 16:00:00,2018-02-12 16:00:00
+review_000317,order_000317,3,Excellent,Product was good,2017-09-06 20:00:00,2017-08-23 20:00:00
+review_000318,order_000318,2,Excellent,Delivered as expected,2017-04-15 01:00:00,2017-04-02 01:00:00
+review_000319,order_000319,5,Excellent,Everything okay,2018-02-08 01:00:00,2018-02-09 01:00:00
+review_000320,order_000320,5,Good,,2017-05-07 00:00:00,2017-06-01 00:00:00

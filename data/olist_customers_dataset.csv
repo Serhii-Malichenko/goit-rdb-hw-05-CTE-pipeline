@@ -1,0 +1,221 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+cust_00001,cu_00164,15592,santos,SP
+cust_00002,cu_00071,33098,curitiba,PR
+cust_00003,cu_00189,14434,niteroi,RJ
+cust_00004,cu_00009,4905,rio de janeiro,RJ
+cust_00005,cu_00060,67237,santos,SP
+cust_00006,cu_00051,94850,salvador,BA
+cust_00007,cu_00115,78236,porto alegre,RS
+cust_00008,cu_00041,92506,feira de santana,BA
+cust_00009,cu_00072,21379,londrina,PR
+cust_00010,cu_00027,13156,salvador,BA
+cust_00011,cu_00092,46082,porto alegre,RS
+cust_00012,cu_00187,61217,niteroi,RJ
+cust_00013,cu_00021,73357,caxias do sul,RS
+cust_00014,cu_00148,26203,rio de janeiro,RJ
+cust_00015,cu_00170,30871,porto alegre,RS
+cust_00016,cu_00060,14238,feira de santana,BA
+cust_00017,cu_00117,84320,florianopolis,SC
+cust_00018,cu_00095,47566,londrina,PR
+cust_00019,cu_00180,90593,rio de janeiro,RJ
+cust_00020,cu_00137,96568,curitiba,PR
+cust_00021,cu_00119,50735,porto alegre,RS
+cust_00022,cu_00176,43504,sao paulo,SP
+cust_00023,cu_00009,42347,feira de santana,BA
+cust_00024,cu_00017,28653,florianopolis,SC
+cust_00025,cu_00168,66435,feira de santana,BA
+cust_00026,cu_00037,35718,belo horizonte,MG
+cust_00027,cu_00144,71644,caxias do sul,RS
+cust_00028,cu_00150,53350,florianopolis,SC
+cust_00029,cu_00036,67784,brasilia,DF
+cust_00030,cu_00013,15371,belo horizonte,MG
+cust_00031,cu_00175,56333,niteroi,RJ
+cust_00032,cu_00098,79104,brasilia,DF
+cust_00033,cu_00142,2504,niteroi,RJ
+cust_00034,cu_00165,45587,niteroi,RJ
+cust_00035,cu_00112,21730,brasilia,DF
+cust_00036,cu_00185,95329,porto alegre,RS
+cust_00037,cu_00130,14947,porto alegre,RS
+cust_00038,cu_00040,50009,belo horizonte,MG
+cust_00039,cu_00154,43487,brasilia,DF
+cust_00040,cu_00029,48576,porto alegre,RS
+cust_00041,cu_00015,32571,rio de janeiro,RJ
+cust_00042,cu_00188,64699,rio de janeiro,RJ
+cust_00043,cu_00033,87474,brasilia,DF
+cust_00044,cu_00068,70163,salvador,BA
+cust_00045,cu_00139,99994,londrina,PR
+cust_00046,cu_00103,89039,joinville,SC
+cust_00047,cu_00133,60177,rio de janeiro,RJ
+cust_00048,cu_00058,9392,florianopolis,SC
+cust_00049,cu_00151,73603,curitiba,PR
+cust_00050,cu_00002,10305,sao paulo,SP
+cust_00051,cu_00018,5117,florianopolis,SC
+cust_00052,cu_00132,32195,caxias do sul,RS
+cust_00053,cu_00055,71678,uberlandia,MG
+cust_00054,cu_00063,62993,salvador,BA
+cust_00055,cu_00025,13704,feira de santana,BA
+cust_00056,cu_00109,54883,brasilia,DF
+cust_00057,cu_00173,86649,rio de janeiro,RJ
+cust_00058,cu_00104,96448,florianopolis,SC
+cust_00059,cu_00064,26112,londrina,PR
+cust_00060,cu_00036,56296,uberlandia,MG
+cust_00061,cu_00119,33742,niteroi,RJ
+cust_00062,cu_00141,13833,santos,SP
+cust_00063,cu_00139,2934,rio de janeiro,RJ
+cust_00064,cu_00043,54269,brasilia,DF
+cust_00065,cu_00055,53565,sao paulo,SP
+cust_00066,cu_00098,1282,feira de santana,BA
+cust_00067,cu_00117,38388,feira de santana,BA
+cust_00068,cu_00040,25890,porto alegre,RS
+cust_00069,cu_00015,76914,santos,SP
+cust_00070,cu_00081,8492,santos,SP
+cust_00071,cu_00123,66909,belo horizonte,MG
+cust_00072,cu_00131,11500,belo horizonte,MG
+cust_00073,cu_00153,9907,londrina,PR
+cust_00074,cu_00031,75668,curitiba,PR
+cust_00075,cu_00159,11745,feira de santana,BA
+cust_00076,cu_00067,27772,florianopolis,SC
+cust_00077,cu_00068,52876,uberlandia,MG
+cust_00078,cu_00118,42441,rio de janeiro,RJ
+cust_00079,cu_00118,82416,rio de janeiro,RJ
+cust_00080,cu_00138,28938,porto alegre,RS
+cust_00081,cu_00090,10016,londrina,PR
+cust_00082,cu_00073,21676,brasilia,DF
+cust_00083,cu_00157,86717,santos,SP
+cust_00084,cu_00142,40240,rio de janeiro,RJ
+cust_00085,cu_00068,16129,rio de janeiro,RJ
+cust_00086,cu_00070,37930,londrina,PR
+cust_00087,cu_00053,91111,caxias do sul,RS
+cust_00088,cu_00065,7658,niteroi,RJ
+cust_00089,cu_00071,6778,campinas,SP
+cust_00090,cu_00034,84507,porto alegre,RS
+cust_00091,cu_00190,58912,salvador,BA
+cust_00092,cu_00029,10862,belo horizonte,MG
+cust_00093,cu_00095,77350,uberlandia,MG
+cust_00094,cu_00033,6482,caxias do sul,RS
+cust_00095,cu_00011,47898,curitiba,PR
+cust_00096,cu_00171,14473,joinville,SC
+cust_00097,cu_00159,99235,belo horizonte,MG
+cust_00098,cu_00042,24206,salvador,BA
+cust_00099,cu_00046,97542,joinville,SC
+cust_00100,cu_00172,97345,londrina,PR
+cust_00101,cu_00041,92917,niteroi,RJ
+cust_00102,cu_00010,62694,curitiba,PR
+cust_00103,cu_00118,46830,porto alegre,RS
+cust_00104,cu_00058,4101,londrina,PR
+cust_00105,cu_00085,37517,niteroi,RJ
+cust_00106,cu_00090,85080,feira de santana,BA
+cust_00107,cu_00008,16118,porto alegre,RS
+cust_00108,cu_00149,35795,sao paulo,SP
+cust_00109,cu_00153,57959,joinville,SC
+cust_00110,cu_00112,80457,niteroi,RJ
+cust_00111,cu_00148,25914,porto alegre,RS
+cust_00112,cu_00182,58154,santos,SP
+cust_00113,cu_00138,91027,londrina,PR
+cust_00114,cu_00111,10171,joinville,SC
+cust_00115,cu_00170,17334,caxias do sul,RS
+cust_00116,cu_00171,54528,joinville,SC
+cust_00117,cu_00179,39752,belo horizonte,MG
+cust_00118,cu_00108,88153,salvador,BA
+cust_00119,cu_00158,75593,caxias do sul,RS
+cust_00120,cu_00141,1053,caxias do sul,RS
+cust_00121,cu_00054,57346,joinville,SC
+cust_00122,cu_00114,58954,londrina,PR
+cust_00123,cu_00189,23241,niteroi,RJ
+cust_00124,cu_00132,88012,florianopolis,SC
+cust_00125,cu_00061,89184,porto alegre,RS
+cust_00126,cu_00051,20313,sao paulo,SP
+cust_00127,cu_00063,63277,niteroi,RJ
+cust_00128,cu_00107,83544,londrina,PR
+cust_00129,cu_00127,53383,curitiba,PR
+cust_00130,cu_00168,91128,sao paulo,SP
+cust_00131,cu_00109,29683,uberlandia,MG
+cust_00132,cu_00013,74060,curitiba,PR
+cust_00133,cu_00117,18477,brasilia,DF
+cust_00134,cu_00114,81301,feira de santana,BA
+cust_00135,cu_00041,98472,brasilia,DF
+cust_00136,cu_00067,99536,londrina,PR
+cust_00137,cu_00134,64517,londrina,PR
+cust_00138,cu_00113,11155,porto alegre,RS
+cust_00139,cu_00070,45020,florianopolis,SC
+cust_00140,cu_00036,20769,londrina,PR
+cust_00141,cu_00178,21028,curitiba,PR
+cust_00142,cu_00107,54424,joinville,SC
+cust_00143,cu_00107,9161,londrina,PR
+cust_00144,cu_00100,77556,santos,SP
+cust_00145,cu_00098,63518,campinas,SP
+cust_00146,cu_00077,99759,feira de santana,BA
+cust_00147,cu_00138,98978,londrina,PR
+cust_00148,cu_00057,36774,feira de santana,BA
+cust_00149,cu_00008,51968,joinville,SC
+cust_00150,cu_00186,22632,brasilia,DF
+cust_00151,cu_00160,71008,campinas,SP
+cust_00152,cu_00152,74975,sao paulo,SP
+cust_00153,cu_00165,57179,uberlandia,MG
+cust_00154,cu_00047,7590,caxias do sul,RS
+cust_00155,cu_00084,28742,brasilia,DF
+cust_00156,cu_00087,50692,caxias do sul,RS
+cust_00157,cu_00065,11735,brasilia,DF
+cust_00158,cu_00139,7826,florianopolis,SC
+cust_00159,cu_00167,9993,sao paulo,SP
+cust_00160,cu_00064,27130,santos,SP
+cust_00161,cu_00040,32266,uberlandia,MG
+cust_00162,cu_00172,15993,londrina,PR
+cust_00163,cu_00180,34586,florianopolis,SC
+cust_00164,cu_00156,80593,rio de janeiro,RJ
+cust_00165,cu_00080,15168,campinas,SP
+cust_00166,cu_00148,89781,feira de santana,BA
+cust_00167,cu_00184,26995,rio de janeiro,RJ
+cust_00168,cu_00027,92382,porto alegre,RS
+cust_00169,cu_00145,6383,joinville,SC
+cust_00170,cu_00170,49571,niteroi,RJ
+cust_00171,cu_00004,56057,brasilia,DF
+cust_00172,cu_00111,48472,brasilia,DF
+cust_00173,cu_00112,24086,caxias do sul,RS
+cust_00174,cu_00120,58091,caxias do sul,RS
+cust_00175,cu_00063,12359,caxias do sul,RS
+cust_00176,cu_00063,99366,brasilia,DF
+cust_00177,cu_00087,4761,brasilia,DF
+cust_00178,cu_00047,64904,londrina,PR
+cust_00179,cu_00067,45608,caxias do sul,RS
+cust_00180,cu_00143,2330,curitiba,PR
+cust_00181,cu_00062,95381,feira de santana,BA
+cust_00182,cu_00143,32499,brasilia,DF
+cust_00183,cu_00115,3260,niteroi,RJ
+cust_00184,cu_00057,54005,londrina,PR
+cust_00185,cu_00170,77225,joinville,SC
+cust_00186,cu_00142,70588,joinville,SC
+cust_00187,cu_00141,44357,joinville,SC
+cust_00188,cu_00070,41189,porto alegre,RS
+cust_00189,cu_00031,95540,londrina,PR
+cust_00190,cu_00031,98370,belo horizonte,MG
+cust_00191,cu_00056,97810,brasilia,DF
+cust_00192,cu_00186,78278,porto alegre,RS
+cust_00193,cu_00050,39829,londrina,PR
+cust_00194,cu_00046,40618,santos,SP
+cust_00195,cu_00137,17591,porto alegre,RS
+cust_00196,cu_00014,73529,porto alegre,RS
+cust_00197,cu_00164,99669,brasilia,DF
+cust_00198,cu_00004,76243,caxias do sul,RS
+cust_00199,cu_00123,58733,florianopolis,SC
+cust_00200,cu_00014,34092,brasilia,DF
+cust_00201,cu_00017,53521,brasilia,DF
+cust_00202,cu_00148,83502,sao paulo,SP
+cust_00203,cu_00039,74772,porto alegre,RS
+cust_00204,cu_00064,16525,salvador,BA
+cust_00205,cu_00134,50856,brasilia,DF
+cust_00206,cu_00077,78139,feira de santana,BA
+cust_00207,cu_00146,82399,santos,SP
+cust_00208,cu_00190,14006,curitiba,PR
+cust_00209,cu_00068,87563,rio de janeiro,RJ
+cust_00210,cu_00062,23782,rio de janeiro,RJ
+cust_00211,cu_00001,54545,brasilia,DF
+cust_00212,cu_00075,5278,londrina,PR
+cust_00213,cu_00181,38056,brasilia,DF
+cust_00214,cu_00176,31595,porto alegre,RS
+cust_00215,cu_00109,16043,curitiba,PR
+cust_00216,cu_00069,19643,rio de janeiro,RJ
+cust_00217,cu_00043,41319,caxias do sul,RS
+cust_00218,cu_00032,62433,caxias do sul,RS
+cust_00219,cu_00070,66597,brasilia,DF
+cust_00220,cu_00021,79385,campinas,SP
